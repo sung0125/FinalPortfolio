@@ -26,7 +26,7 @@ const TeamPage = () => {
             name: "이지훈",
             image: "/지훈.jpg",
             github: "https://github.com/Hoodscp",
-            portfolio: "https://2024-2-jbu-portfolio.vercel.app/",
+            portfolio: "https://my-playground-livid.vercel.app/",
         },
         {
             name: "홍정현",
