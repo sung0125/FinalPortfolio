@@ -38,7 +38,7 @@ const TeamPage = () => {
             name: "고은이",
             image: "/profile.jpg",
             github: "https://github.com/goeuni",
-            portfolio: "https://portfolio-goeunis-projects.vercel.app/",
+            portfolio: "https://profile-two-pi.vercel.app/",
         },
     ];
 
